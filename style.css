@@ -1,0 +1,39 @@
+#search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #search-term {
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    margin-right: 5px;
+  }
+  
+  #search-btn {
+    border: none;
+    background-color: #1abc9c;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  #search-btn i {
+    font-size: 16px;
+  }
+
+
+  table {
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  
